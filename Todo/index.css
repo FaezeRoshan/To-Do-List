@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+  margin: 20px !important;
+  color:rgb(179, 227, 255) !important ;
+  text-align: center !important;
+}
+
+button {
+margin: 40px !important;
+border: 2px solid black ;
+ 
+}
+
+input , #sele {
+  margin: 0.4rem  !important  ;
+  width: 200px;
+}
+
+#moncard{
+  width: 450px;
+  position: relative !important;
+  align-items: center;
+  top: 20px !important;
+  left: 36%  ;
+ 
+}
+#me {
+ 
+  position:absolute!important ;
+  margin-left: 10px;
+    top: 125px ;
+}
+#ulc {
+  width: 200px;
+  text-align:justify;
+}
+
+
+.modal-header  #closse {
+  padding: 1rem 1rem  ;
+  margin: -1rem -1rem -1rem !important ;}
+#closse{
+  
+   float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+    background-color: transparent;
+    border: 0;
+  
+}
+
+#date , #time  ,#cause {
+  margin-left: 40px;
+}
+#ava{
+  margin-left: 14 px;
+}
+
+#inputc {
+  position: inherit !important;
+  margin:10px;
+  width: 400px;
+  
+}
+
+
+
+table{
+
+  position: relative !important ;
+  top: 20px !important;
+  left: 55px;
+  border-radius:20px !important;
+}
+
+#parent{
+  width: 100%;
+  height: 200px;
+}
+#child{
+  width: 100%;
+  height: 100px;
+ 
+  padding: 20px;
+}
+
+
+#ins{
+ text-align: center;
+ padding: 5px;
+}
