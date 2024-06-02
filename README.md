@@ -8,8 +8,8 @@ A simple list with the ability to add and delete tasks
 - express
 - mongodb
 
-![App Screenshot](https://i.postimg.cc/pdtm3swP/Add.png)
-![App Screenshot](https://i.postimg.cc/X7HcS6L4/tasks.png)
+![App Screenshot](https://i.postimg.cc/qM44f9Rb/Untitled-1.png)
+![App Screenshot](https://i.postimg.cc/vmgdLyqB/Untitled-2.png)
 
 
   
